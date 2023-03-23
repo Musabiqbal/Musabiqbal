@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Musabiqba
+- 👋 Hi, I’m @Musabiqbal
 - 👀 I’m interested in coding and sketching
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html
 - 📫 How to reach me 
-Instagram- M.I_science_lover
+Instagram- @musab_iqbal10
 
 <!---
 Musabiqbal/Musabiqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
